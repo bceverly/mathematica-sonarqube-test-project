@@ -303,6 +303,6 @@ This is a demonstration project. Use as you wish.
 
 ## Resources
 
-- [SonarQube Mathematica Plugin](https://github.com/bceverly/sonar-mathematica-plugin)
+- [SonarQube Mathematica Plugin](https://github.com/bceverly/wolfralyze)
 - [SonarQube Documentation](https://docs.sonarqube.org/)
 - [Wolfram Language Documentation](https://reference.wolfram.com/)
