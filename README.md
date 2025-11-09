@@ -1,6 +1,6 @@
-# Mathematica SonarQube Test Project
+# Wolfralyze Test Project
 
-A test project demonstrating SonarQube code quality analysis for Wolfram Mathematica code, including unit tests with native coverage generation.
+A test project demonstrating SonarQube code quality analysis for Wolfram Mathematica code using Wolfralyze, including unit tests with native coverage generation.
 
 ## Overview
 
@@ -13,7 +13,7 @@ This project contains:
 ## Project Structure
 
 ```
-mathematica-sonarqube-test-project/
+wolfralize-test-project/
 ├── src/                          # Source files
 │   ├── Calculator.wl             # Math functions with bugs and code smells
 │   ├── StringUtils.wl            # String utilities with performance issues
@@ -211,7 +211,7 @@ sonar.inclusions=**/*.wl,**/*.m,**/*.wls
 
 ```bash
 # 1. Clone the repository
-cd ~/dev/mathematica-sonarqube-test-project
+cd ~/dev/wolfralize-test-project
 
 # 2. Run unit tests
 make test
