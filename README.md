@@ -13,7 +13,7 @@ This project contains:
 ## Project Structure
 
 ```
-wolfralize-test-project/
+wolfralyze-test-project/
 ├── src/                          # Source files
 │   ├── Calculator.wl             # Math functions with bugs and code smells
 │   ├── StringUtils.wl            # String utilities with performance issues
@@ -211,7 +211,7 @@ sonar.inclusions=**/*.wl,**/*.m,**/*.wls
 
 ```bash
 # 1. Clone the repository
-cd ~/dev/wolfralize-test-project
+cd ~/dev/wolfralyze-test-project
 
 # 2. Run unit tests
 make test
